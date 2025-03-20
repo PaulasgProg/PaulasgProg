@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Paula Sotelo</h1>
 <h3 align="center">Desarrolladora de aplicaciones multiplataforma</h3>
 
-- 📫 How to reach me **paula.sotelo.99@gmail.com**
+- 📫 Como contactarme: **paula.sotelo.99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
