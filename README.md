@@ -1,12 +1,57 @@
-<h1 align="center">Hola 👋, Soy Paula Sotelo</h1>
-<h3 align="center">Desarrolladora de aplicaciones multiplataforma</h3>
+# 👋 ¡Hola! Soy Paula Sotelo
 
-- 📫 Como contactarme: **paula.sotelo.99@gmail.com**
+💻 **Desarrolladora Full-Stack** | 🚀 Apasionada por la tecnología y la innovación  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paulasotelopro99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulasotelopro99" height="30" width="40" /></a>
-</p>
+---
+
+### 📌 Sobre mí  
+Soy Desarrolladora de Aplicaciones Multiplataforma y estudiante del Curso Superior de Desarrollo Full Stack.  
+Aspiro a conseguir empleo en el mundo del desarrollo de aplicaciones, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.  
+
+✨ Me destaco por:  
+- 🔹 Trabajo en equipo  
+- 🔹 Comunicación asertiva  
+- 🔹 Resolución de problemas  
+- 🔹 Proactividad y responsabilidad  
+
+---
+
+### 🚀 Habilidades  
+✔ **Frontend:** HTML, CSS, JavaScript, React  
+✔ **Backend:** Node.js, Express, Python, Java  
+✔ **Frameworks:** Flet, SpringBoot, Hibernate
+✔ **Bases de datos:** MySQL, MongoDB, PostgreSQL, Graphql 
+✔ **Herramientas:** Git, Docker, Jetpack Compose  
+
+---
+
+### 📚 Formación  
+🎓 **Técnica en Automatización y Robótica Industrial** *(2019 - 2021)*  
+🎓 **Desarrolladora de Aplicaciones Multiplataforma** *(2022 - 2024)*  
+🎓 **Desarrolladora Full-Stack** *(2022 - En curso)*  
+
+---
+
+### 🛠️ Proyectos Destacados  
+🔹 **[AlertaCoches Multiplataforma](#)** - Simulación de la web de AlertaCoches usando Flet y Docker.  
+🔹 **[Portafolio](#)** - Mi portafolio web con mis proyectos y habilidades.  
+🔹 **[Android App](#)** - Aplicación en AndroidStudio con JetPackCompose.  
+🔹 **[Microservicios](#)** - Backend con Microservicios usando bases de datos MySQL y Graphql.
+🔹 **[GitHub Actions](#)** - Plantilla para usar Docker con GitHub Actions.
+
+
+---
+
+### 📫 Contacto  
+📩 **Email:** [paula.sotelo.99@gmail.com](mailto:paula.sotelo.99@gmail.com)  
+🌐 **Portafolio:** [https://paulasgprog.github.io/mi-portfolio](https://paulasgprog.github.io/mi-portfolio/)
+💼 **LinkedIn:** [https://github.com/PaulasgProg](https://github.com/PaulasgProg)
+
+---
+
+⭐ ¡No dudes en visitar mis repositorios y contribuir juntos al mundo del desarrollo! 🚀  
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
