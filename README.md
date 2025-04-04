@@ -33,11 +33,11 @@ Aspiro a conseguir empleo en el mundo del desarrollo de aplicaciones, adquirir e
 ---
 
 ### 🛠️ Proyectos Destacados  
-🔹 **[AlertaCoches Multiplataforma](#)** - Simulación de la web de AlertaCoches usando Flet y Docker.  
-🔹 **[Portafolio](#)** - Mi portafolio web con mis proyectos y habilidades.  
-🔹 **[Android App](#)** - Aplicación en AndroidStudio con JetPackCompose.  
-🔹 **[Microservicios](#)** - Backend con Microservicios usando bases de datos MySQL y Graphql.
-🔹 **[GitHub Actions](#)** - Plantilla para usar Docker con GitHub Actions.
+🔹 **[AlertaCoches Multiplataforma](https://github.com/PaulasgProg/app-ac)** - Simulación de la web de AlertaCoches usando Flet y Docker.  
+🔹 **[Portafolio](https://github.com/PaulasgProg/mi-portfolio)** - Mi portafolio web con mis proyectos y habilidades.  
+🔹 **[Android App](https://github.com/PaulasgProg/Compose)** - Aplicación en AndroidStudio con JetPackCompose.  
+🔹 **[Microservicios](https://github.com/PaulasgProg/microservicios-app)** - Backend con Microservicios usando bases de datos MySQL y Graphql.
+🔹 **[GitHub Actions](https://github.com/PaulasgProg/fs-devops)** - Plantilla para usar Docker con GitHub Actions.
 
 
 ---
