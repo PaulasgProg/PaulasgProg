@@ -19,8 +19,8 @@ Aspiro a conseguir empleo en el mundo del desarrollo de aplicaciones, adquirir e
 ### 🚀 Habilidades  
 ✔ **Frontend:** HTML, CSS, JavaScript, React  
 ✔ **Backend:** Node.js, Express, Python, Java  
-✔ **Frameworks:** Flet, SpringBoot, Hibernate
-✔ **Bases de datos:** MySQL, MongoDB, PostgreSQL, Graphql 
+✔ **Frameworks:** Flet, SpringBoot, Hibernate  
+✔ **Bases de datos:** MySQL, MongoDB, PostgreSQL, Graphql  
 ✔ **Herramientas:** Git, Docker, Jetpack Compose  
 
 ---
@@ -36,7 +36,7 @@ Aspiro a conseguir empleo en el mundo del desarrollo de aplicaciones, adquirir e
 🔹 **[AlertaCoches Multiplataforma](https://github.com/PaulasgProg/app-ac)** - Simulación de la web de AlertaCoches usando Flet y Docker.  
 🔹 **[Portafolio](https://github.com/PaulasgProg/mi-portfolio)** - Mi portafolio web con mis proyectos y habilidades.  
 🔹 **[Android App](https://github.com/PaulasgProg/Compose)** - Aplicación en AndroidStudio con JetPackCompose.  
-🔹 **[Microservicios](https://github.com/PaulasgProg/microservicios-app)** - Backend con Microservicios usando bases de datos MySQL y Graphql.
+🔹 **[Microservicios](https://github.com/PaulasgProg/microservicios-app)** - Backend con Microservicios usando bases de datos MySQL y Graphql.  
 🔹 **[GitHub Actions](https://github.com/PaulasgProg/fs-devops)** - Plantilla para usar Docker con GitHub Actions.
 
 
@@ -44,7 +44,7 @@ Aspiro a conseguir empleo en el mundo del desarrollo de aplicaciones, adquirir e
 
 ### 📫 Contacto  
 📩 **Email:** [paula.sotelo.99@gmail.com](mailto:paula.sotelo.99@gmail.com)  
-🌐 **Portafolio:** [https://paulasgprog.github.io/mi-portfolio](https://paulasgprog.github.io/mi-portfolio/)
+🌐 **Portafolio:** [https://paulasgprog.github.io/mi-portfolio](https://paulasgprog.github.io/mi-portfolio/)  
 💼 **LinkedIn:** [https://github.com/PaulasgProg](https://github.com/PaulasgProg)
 
 ---
