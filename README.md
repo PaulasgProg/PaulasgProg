@@ -45,7 +45,7 @@ Aspiro a conseguir empleo en el mundo del desarrollo de aplicaciones, adquirir e
 ### 📫 Contacto  
 📩 **Email:** [paula.sotelo.99@gmail.com](mailto:paula.sotelo.99@gmail.com)  
 🌐 **Portafolio:** [https://paulasgprog.github.io/mi-portfolio](https://paulasgprog.github.io/mi-portfolio/)  
-💼 **LinkedIn:** [https://github.com/PaulasgProg](https://github.com/PaulasgProg)
+💼 **LinkedIn:** [https://www.linkedin.com/in/paulasotelopro99](https://www.linkedin.com/in/paulasotelopro99/)
 
 ---
 
